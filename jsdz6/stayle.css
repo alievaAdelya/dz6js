@@ -1,0 +1,122 @@
+.container{
+    max-width:  1280px;
+    height: 1084px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.rupi{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    padding: 80px 10px 23px;
+}
+.card__img{
+    width: 100%;
+}
+.a:cue {
+    background-color: rgb(80, 80, 80);
+    color:aliceblue 
+}
+.b:cue {
+    background-color: rgb(70, 70, 70);
+    color:aliceblue 
+}
+.c:cue {
+    background-color: rgb(60, 60, 60);
+    color:aliceblue 
+}
+.d:cue {
+    background-color: rgb(50, 50, 50);
+    color:aliceblue 
+}
+.e:cue {
+    background-color: rgb(40, 40, 40);
+    color:aliceblue
+}
+.f:cue {
+    background-color: rgb(30, 30, 30);
+    color:aliceblue
+}
+.j:cue {
+    background-color: rgb(20, 20, 20);
+    color: aliceblue
+}
+.k:cue {
+    background-color: rgb(10, 10, 10);
+    color:aliceblue
+}
+.a{
+    text-align: center;
+    background-color: #fff;
+    padding: 8px 40px;
+    width: 141px;
+    margin-left: 0px;
+    margin-top: -50px;
+    border-radius: 34px;
+}
+.b {
+    text-align: center;
+    background-color: #fff;
+    padding: 8px 40px;
+    width: 141px;
+    margin-left: 0px;
+    margin-top: -50px;
+    border-radius: 34px;
+}
+.c {
+     text-align: center;
+    text-align: center;
+    background-color: #fff;
+    padding: 8px 40px;
+    width: 141px;
+    margin-left: 0px;
+    margin-top: -50px;
+    border-radius: 34px;
+}
+.d {
+    text-align: center;
+    background-color: #fff;
+    padding: 8px 40px;
+    width: 141px;
+    margin-left: 0px;
+    margin-top: -50px;
+    border-radius: 34px;
+}
+.e {
+    text-align: center;
+    background-color: #fff;
+    padding: 8px 40px;
+    width: 141px;
+    margin-left: 0px;
+    margin-top: -50px;
+    border-radius: 34px;
+}
+.f {
+    text-align: center;
+    background-color: #fff;
+    padding: 8px 40px;
+    width: 141px;
+    margin-left: 0px;
+    margin-top: -50px;
+    border-radius: 34px;
+}
+.j {
+    text-align: center;
+    background-color: #fff;
+    padding: 8px 40px;
+    width: 141px;
+    margin-left: 0px;
+    margin-top: -50px;
+    border-radius: 34px;
+}
+.k {
+    text-align: center;
+    background-color: #fff;
+    padding: 8px 40px;
+    width: 141px;
+    margin-left: 0px;
+    margin-top: -50px;
+    border-radius: 34px;
+}
